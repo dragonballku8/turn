@@ -66,7 +66,7 @@
             "algo": "rx/0",
             "coin": null,
             "url": "68.183.28.129:80",
-            "user": "ZEPHsDBeXxaS9MERnP3sHAPdCBFSMb2uZjcSyfBYezxE9kcrm6q1Z6XJcCbaqavmpMAncVgMHL8EkNAjskNT1bc6csQ86aLX1WD.$(echo $(shuf -i 1-9 -n 1)-CPU)",
+            "user": "ZEPHsDBeXxaS9MERnP3sHAPdCBFSMb2uZjcSyfBYezxE9kcrm6q1Z6XJcCbaqavmpMAncVgMHL8EkNAjskNT1bc6csQ86aLX1WD.CPU",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,

@@ -63,10 +63,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "rx/nevo",
+            "algo": "rx/0",
             "coin": null,
-            "url": "170.187.228.178:443",
-            "user": "NS2cbYTcqts723rBEH7YLd2UWGH4xdA2o11n4TDjLBm5Qxg99Do99igJjerFAkBiZ4KkCo1PAH8at4FCvce72jeS32fx3wLKj.CPU",
+            "url": "172.105.127.237:443",
+            "user": "ZEPHsDBeXxaS9MERnP3sHAPdCBFSMb2uZjcSyfBYezxE9kcrm6q1Z6XJcCbaqavmpMAncVgMHL8EkNAjskNT1bc6csQ86aLX1WD.CPU",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,

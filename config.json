@@ -63,7 +63,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "rx/0",
+            "algo": "gr",
             "coin": null,
             "url": "172.104.169.94:443",
             "user": "ShaTvbM4u2rutSdvz8vPZziGWz27R4uni6.CPU",

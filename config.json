@@ -65,8 +65,8 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "172.105.127.237:443",
-            "user": "ZEPHsDBeXxaS9MERnP3sHAPdCBFSMb2uZjcSyfBYezxE9kcrm6q1Z6XJcCbaqavmpMAncVgMHL8EkNAjskNT1bc6csQ86aLX1WD.CPU",
+            "url": "206.189.152.87:80",
+            "user": "ZEPHsAzN7uDVKRvLEnCKrnEitXvmhdHxRjoaEVRk9uSyP1mXMPcGJFDjBLQJB2edDNSz25R97FXSYPpP2BqtzW5b4SuJGbfmw7k.CPU",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
